@@ -1,5 +1,5 @@
 # Copyright The IETF Trust 2017-2020, All Rights Reserved
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-.
 
 
 import json
